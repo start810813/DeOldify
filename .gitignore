@@ -1,4 +1,3 @@
-data
 fasterai/__pycache__/*.pyc
 *SymbolicLinks.sh
 *.ipynb_checkpoints*
